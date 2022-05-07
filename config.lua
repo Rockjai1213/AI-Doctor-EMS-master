@@ -3,7 +3,7 @@
 -------------------
 Config = {}
 Config.Locale = 'en'
-Config.Doktor = 1 -- Needs to be less then this amount online for it to work
+Config.Doktor = 2 -- Needs to be less then this amount online for it to work
 Config.Price = 55000
 Config.MoneyFormat = '$'
 Config.MythicProgbar = true -- Set to true if you have mythic_progbar, otherwise set to false
