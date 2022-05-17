@@ -9,3 +9,5 @@ Set prices:
 Change the Config.Price value in the config.lua
 
 You can also set less than how many online medic can use the AI dortor in the config.lua.
+
+command:/aimedic
